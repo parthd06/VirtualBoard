@@ -10,4 +10,4 @@ There's also an eraser option to erase/delete certain text as per requirement.
 
 ## Detail
 
-In this project, I have used the Mediapipe package made by Google to track Hand gestures.
+In this project, I have used the Mediapipe package made by Google to track Hand gestures. We have used the camera feed to get input to read the video feed using OpenCv. 
